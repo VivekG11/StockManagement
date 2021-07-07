@@ -1,0 +1,20 @@
+﻿{
+  "StockList": [
+    {
+      "stockName": "Dell",
+      "stockPrice": 1000,
+      "numberOfShares": 25
+    },
+    {
+      "stockName": "Tvs",
+      "stockPrice": 1200,
+      "numOfShares": 30
+    },
+    {
+      "stockName": "Lenovo",
+      "stockPrice": 900,
+      "numberOfShares": 35
+    }
+
+  ]
+}
